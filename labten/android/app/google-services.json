@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741587445444",
+    "project_id": "lab-8220b",
+    "storage_bucket": "lab-8220b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741587445444:android:eac550d0f09b5f7fa20b91",
+        "android_client_info": {
+          "package_name": "com.example.labten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741587445444-mnh10l9i0k382kq8gojchrp78q9jrobg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGElqJETq_oymu4dsJAQU5evfaVZkINJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741587445444-mnh10l9i0k382kq8gojchrp78q9jrobg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
